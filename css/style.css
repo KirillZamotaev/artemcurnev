@@ -1,0 +1,170 @@
+header, footer{
+background-color:#202f39 !important;
+color:white;
+}
+footer{
+height: 100px;
+padding: 35px;
+text-align:center;
+}
+footer a{
+font-weight:100;
+}
+footer img{
+padding-right:5px;
+}
+footer a:hover{
+
+}
+ul.contacts{
+display:block;
+max-width:1146px;
+margin:auto;
+list-style:none;
+width:100%;
+float: left;
+padding: 0px;
+}
+ul.contacts li{
+float:left;
+padding-left:10px;
+padding-right:10px;
+}
+ul.contacts li a{
+text-decoration:none;
+}
+h2{
+text-align:center;
+padding-top: 25px! important; 
+padding-bottom: 30px;
+    background-color: #f1f1f1;
+	font-size: 25px !important; 
+	margin-top:0px !important;
+}
+h3{
+font-size: 20px!important; 
+margin-top: 0px !important;
+}
+
+ul.contacts li a{
+font-size:14px !important;
+color:white !important;
+
+}
+ul.contacts li a img{
+padding-right:5px;
+}
+footer li a img{
+padding-right:5px;
+}
+footer a {
+color:white;
+}
+.sitename{
+float:left;	
+color:white;
+font-size:24px;
+margin-left: 12px;
+}
+.number{
+float:right;
+color:white;
+font-size:24px;
+    margin-right: 12px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.number img{
+padding-right:5px;
+}
+
+.sub_number{
+font-size:14px !important;
+color:white !important;
+float:right !important;
+}
+.spec_container{
+max-width:1200px;
+margin:auto;
+}
+.spec_container_sub{
+max-width:1146px;
+margin:auto;
+}
+.main-page{
+}
+ul.contacts a:focus{
+color:white!important;
+background:none!important;
+}
+.blocks{
+padding:10px;
+width: 300px;
+margin: auto;
+}
+.blocks img{
+margin:auto;
+}
+.to_form_button{
+    width: 300px;
+    height: 50px;
+    border: none;
+    background-color: rgb(248, 87, 63);
+    color: white;
+    font-size: 20px !important;
+	display:block;
+	text-align:center;
+	padding:10px;
+    border-radius: 5px;
+}
+.to_form_button:hover{
+color:white !important;
+background-color:rgb(177, 66, 50);
+text-decoration:none;
+}
+.fl_left{
+float:left;
+padding-right:10px;
+}
+.fl_right{
+float:right;
+}
+.clear_fix{
+min-height:100px;
+}
+.useful_links{
+list-style:none;
+margin:0px;
+}
+.useful_links li{
+margin:30px;
+}
+.useful_links a{
+color:rgb(248, 87, 63);
+font-weight:bold;
+}
+.useful_links p{
+font-weight:bold;
+}
+.spec_section{
+background-color: #f1f1f1;
+}
+.last_section{
+padding-bottom:50px;
+}
+form{
+max-width:300px;
+margin:auto;
+}
+
+.formcaptionimg{
+    margin-bottom: -52px;
+    margin-left: 5px;
+}
+.form-control{
+    padding-left: 28px!important;
+}
+.form_caption{
+padding-top:20px;
+max-width:320px;
+}

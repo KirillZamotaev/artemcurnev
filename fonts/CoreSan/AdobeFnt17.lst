@@ -1,0 +1,123 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CoreSansDS25Light
+FamilyName:Core Sans DS
+StyleName:25 Light
+MenuName:Core Sans DS 25 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Core Sans DS 25 Light
+WritingScript:Roman
+OutlineFileName:\Core Sans DS 25 Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:171272
+FileModTime:1442219952
+NameArray:0,Mac,4,Core Sans DS 25 Light
+NameArray:0,Win,1,Core Sans DS 25 Light
+NameArray:0,Win,16,Core Sans DS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CoreSansDS35Regular
+FamilyName:Core Sans DS
+StyleName:35 Regular
+MenuName:Core Sans DS 35 Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Core Sans DS 35 Regular
+WritingScript:Roman
+OutlineFileName:\Core Sans DS 35 Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:172560
+FileModTime:1442219956
+NameArray:0,Mac,4,Core Sans DS 35 Regular
+NameArray:0,Win,1,Core Sans DS 35 Regular
+NameArray:0,Win,16,Core Sans DS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CoreSansDS55Bold
+FamilyName:Core Sans DS
+StyleName:55 Bold
+MenuName:Core Sans DS 55 Bold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Core Sans DS 55 Bold
+WritingScript:Roman
+OutlineFileName:\Core Sans DS 55 Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:172668
+FileModTime:1442219968
+NameArray:0,Mac,4,Core Sans DS 55 Bold
+NameArray:0,Win,1,Core Sans DS 55 Bold
+NameArray:0,Win,16,Core Sans DS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CoreSansDS65Heavy
+FamilyName:Core Sans DS
+StyleName:65 Heavy
+MenuName:Core Sans DS 65 Heavy
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Core Sans DS 65 Heavy
+WritingScript:Roman
+OutlineFileName:\Core Sans DS 65 Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:173580
+FileModTime:1442219970
+NameArray:0,Mac,4,Core Sans DS 65 Heavy
+NameArray:0,Win,1,Core Sans DS 65 Heavy
+NameArray:0,Win,16,Core Sans DS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329308120
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
